@@ -2,7 +2,7 @@ import turtle
 
 turtle.shape("turtle")
 
-turtle.color("black", "yellow")
+turtle.color("black", "orange")
 turtle.begin_fill()
 turtle.forward(200)
 turtle.left(90)
